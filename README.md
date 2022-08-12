@@ -6,7 +6,7 @@ The module 1 challenge that goes into html semantics organization and img alts.
 
 ## it looks like
 
-![what it looks like](Develop/assets/images/screenshot.png)
+![what it looks like](assets/images/screenshot.png)
 
 ## Credits
 
